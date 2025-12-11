@@ -1,0 +1,5 @@
+{
+  "name": "ProjectRadar",
+  "description": "An AI-powered Academic Project & Progress Intelligence System for universities to track projects, recall faculty memory, and provide student feedback.",
+  "requestFramePermissions": []
+}
